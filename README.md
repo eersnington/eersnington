@@ -21,10 +21,9 @@ My name is Sree. I code, debug, sleep, and then repeat (but not always in that o
 - Handled JWT authentication and session management.
 - Used SQLite for database management.
 
-### Frontend Developer - Freelancer on Upwork
-**Feb 2022 - Oct 2022**
-- Designed and developed landing pages using HTML and CSS.
-- Delivered high-quality frontend solutions for various clients.
+### Fullstack Developer - Freelancer on Upwork
+**Feb 2022 - Oct 2023**
+- Delivered high-quality full-stack SaaS solutions for various clients.
 
 ### Education
 **Sept 2021 - July 2024**
