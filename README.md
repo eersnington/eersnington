@@ -4,8 +4,19 @@ My name is Sree. I code, debug, sleep, and then repeat (but not always in that o
 
 ## My Epic Saga in the Land of Code (Motherboards Included, Swords Optional, Dragons Undefined)
 
-### CTO & Lead Engineer @ ZaplineAI
-**August 2023 - July 2024**
+### Technical Cofounder @ Reninbox.com
+**October 2024 - January 2025**
+- Built an AI-powered email client to automate inbox management.
+- Integrated Google’s OAuth and Gmail APIs for email access.
+- Developed an AI copilot that auto-filters, labels, and drafts replies for incoming emails.
+- Leveraged GCP’s **Pub/Sub** for real-time email processing and scalable task management.
+- Focused on user experience, minimizing clutter, and automating tedious email tasks.
+
+### Soul searching (previous startup failed lmao)
+**September 2024**
+
+### Technical Cofounder @ ZaplineAI.com
+**August 2023 - August 2024**
 - Developed an AI Phone Support Agent for Ecommerce Stores.
 - Built and maintained the Backend in FastAPI to serve the Frontend and handle Twilio calls.
 - Finetuned LLM Models and Classifiers for call workflows and Intent Identification.
