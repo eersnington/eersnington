@@ -86,7 +86,7 @@ My name is Sree. I code, debug, sleep, and then repeat (but not always in that o
   <a href="https://linkedin.com/in/sreenington" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="#" target="_blank">
-   Fancy Portfolio (Coming Soon)
-  </a>
+  <a href="https://eers.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/-Fancy_Portfolio-b4befe?style=for-the-badge&logo=safari&logoColor=1e1e2e" alt="Fancy Portfolio" />
+</a>
 </div>
