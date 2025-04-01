@@ -73,7 +73,6 @@ My name is Sree. I code, debug, sleep, and then repeat (but not always in that o
 
 ## My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eersnington&theme=tokyonight&hide_border=true" alt="eersnington's GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=eersnington&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="eersnington's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eersnington&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="eersnington's Top Languages" />
 </div>
