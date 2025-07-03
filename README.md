@@ -2,8 +2,6 @@
 
 My name is Sree. I code, debug, sleep, and then repeat (but not always in that order and not always those three things).
 
-## My Epic Saga in the Land of Code (Motherboards Included, Swords Optional, Dragons Undefined)
-
 ### Lead Engineer @ Stockpenguins.com
 **January 2025 - Present**
 - I build things and break things here.
