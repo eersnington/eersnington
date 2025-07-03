@@ -1,10 +1,14 @@
-# Welcome to another boring ReadMe.md
+# Welcome to another boring ReadMe.md (Certified Yapping below)
 
 My name is Sree. I code, debug, sleep, and then repeat (but not always in that order and not always those three things).
 
 ## My Epic Saga in the Land of Code (Motherboards Included, Swords Optional, Dragons Undefined)
 
-### Technical Cofounder @ Reninbox.com
+### Lead Engineer @ Stockpenguins.com
+**January 2025 - Present**
+- I build things and break things here.
+
+### Technical Cofounder @ Reninbox.com (failed)
 **October 2024 - January 2025**
 - Built an AI-powered email client to automate inbox management.
 - Integrated Google’s OAuth and Gmail APIs for email access.
