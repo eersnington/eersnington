@@ -6,7 +6,7 @@ My name is Sree. I code, debug, sleep, and then repeat (but not always in that o
 **January 2025 - Present**
 - I build things and break things here.
 - Building financial apis and client to help users manage their brokerage portfolios and investments with stockpenguins.
-- Stack - Next.js, EffectTS, Turborepo, Snaptrade, FMP, AI SDK, Django
+- Stack - Next.js, EffectTS, Turborepo, Snaptrade, FMP, AI SDK, Django, Trigger
 
 ### Technical Cofounder @ Reninbox.com (failed)
 **October 2024 - January 2025**
