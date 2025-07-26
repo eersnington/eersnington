@@ -14,10 +14,10 @@ My name is Sree. I code, debug, sleep, and then repeat (but not always in that o
 - Leveraged GCP’s **Pub/Sub** for real-time email processing and scalable task management.
 - Focused on user experience, minimizing clutter, and automating tedious email tasks.
 
-### Soul searching (previous startup failed lmao)
+### Soul searching (previous startup failed)
 **September 2024**
 
-### Technical Cofounder @ ZaplineAI.com
+### Technical Cofounder @ ZaplineAI.com (failed)
 **August 2023 - August 2024**
 - Developed an AI Phone Support Agent for Ecommerce Stores.
 - Built and maintained the Backend in FastAPI to serve the Frontend and handle Twilio calls.
@@ -65,13 +65,11 @@ My name is Sree. I code, debug, sleep, and then repeat (but not always in that o
 - Worked with Godot Engine and GDScript.
 - Created 2D animations, shaders, particles, and FX.
 
-### Java Plugins Developer for Minecraft Server (Jartex-Network)
+### Java Plugins Developer for a Minecraft Server
 **Nov 2017 - Sept 2019**
 - Maintained server admin plugins using SPIGOT-1.8.8-R0.1 API.
 - Developed minigame plugins for different gamemodes.
 - Published Minecraft plugins built in Java 8 on Spigot.
-- Implemented firewalls to defend against DDoS attacks.
-
 
 ## My GitHub Stats
 <div align="center">
