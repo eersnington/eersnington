@@ -1,6 +1,5 @@
 # Hey, I'm Sree
-*I code, debug, sometimes sleep — not always in that order.*
-
+_Dreaming up cool ideas and working on them._
 ---
 
 ## Current Role
