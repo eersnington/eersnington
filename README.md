@@ -1,23 +1,26 @@
-# Hey, I'm Sree 👋
-I code, debug, sometimes sleep — not always in that order.
+# Hey, I'm Sree
+*I code, debug, sometimes sleep — not always in that order.*
 
-### Currently - Lead Engineer @ [Stockpenguins.com](https://stockpenguins.com)
+---
+
+## Current Role
+**Lead Engineer @ [Stockpenguins.com](https://stockpenguins.com)**  
 AI-powered brokerage portfolio manager.  
-**Stack:** Next.js, EffectTS, Turborepo, AI SDK, Django, Trigger, Snaptrade, FMP,
+**Stack:** `Next.js` · `EffectTS` · `Django`  · `Turborepo` · `AI SDK` · `Trigger` · `Snaptrade` · `FMP`
 
-### Past Projects
-- **Reninbox** – AI email client with Gmail API & real-time processing (GCP Pub/Sub).  
-- **ZaplineAI** – AI phone support agent (FastAPI, Twilio, LLM fine-tuning).  
-- SaaS apps for clients (Vue.js, FastAPI, Flask, Redis, Celery).  
+---
 
-### Origins
-- **Node.js Discord Bot Dev** – Sold custom bots linked to Minecraft accounts via `mineflayer`.  
-- **Godot Game Dev** – Built games during lockdown; placed **13th overall** in GameDev.TV Game Jam on itch.io.  
-- **Java + Spigot** – Created & maintained plugins for a popular cracked Minecraft server.
+## Past Projects
+- **Reninbox** — AI email client with Gmail API & GCP Pub/Sub real-time processing.  
+- **ZaplineAI** — AI-powered phone support (FastAPI · Twilio · LLM fine-tuning).  
+- **SaaS client work** — Vue.js · FastAPI · Flask · Redis · Celery.
 
-### Education
-- **BSc Computer Science** – PSG College of Arts & Science  
-- **BSc Data Science & Programming** – IIT Madras
+---
+
+## Couple of things I did in my early days
+- **Discord Bot Dev** — Sold Node.js discord bots that linked to Minecraft accounts via `mineflayer` for remote automation.  
+- **Godot Game Dev** — Ranked **13th overall** in GameDev.TV Jam and published my game to itch.io.  
+- **Java + Spigot** — I learnt Java on my own and learnt Spigot API. Then I built and maintained plugins for a popular cracked Minecraft server.
 
 ---
 
@@ -29,15 +32,15 @@ AI-powered brokerage portfolio manager.
 
 ---
 
-## 🌐 Connect
+## Socials
 <div align="center">
   <a href="https://twitter.com/eersnington">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/sreenington">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://eers.dev/">
-    <img src="https://img.shields.io/badge/-Portfolio-b4befe?style=for-the-badge&logo=safari&logoColor=1e1e2e" />
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
 </div>
