@@ -1,5 +1,5 @@
-# Hey, I'm Sree
-_Dreaming up cool ideas and working on them._
+# Sree N
+_Web is cool. Building games is cool._
 ---
 
 ## Current Role
