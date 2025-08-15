@@ -11,7 +11,7 @@ AI-powered brokerage portfolio manager.
 
 ## Past Projects
 - **Reninbox** (2024) — AI email client with Gmail API & GCP Pub/Sub real-time processing.  
-- **SaaS client work** (2024) — Vue.js · FastAPI · Flask · Redis · Celery.
+- **SaaS client work** (2024) — Web dev projects.
 - **ZaplineAI** (2023) — AI-powered phone support (FastAPI · Twilio · Finetuned BERT models for fast customer intent classification).  
 ---
 
