@@ -1,13 +1,15 @@
 # Sree N
 _Web is cool. Building games is cool._
----
 
+--
 ## Current Role
 **Lead Engineer @ [Stockpenguins.com](https://stockpenguins.com)**  
-AI-powered brokerage portfolio manager.  
-**Stack:** `Next.js` · `EffectTS` · `Django`  · `Turborepo` · `AI SDK` · `Trigger` · `Snaptrade` · `FMP`
+AI-driven stock research & investment portfolio tracking.
 
 ---
+
+## Current Project
+- **[Obby.dev](https://obby.dev)** (2025) — Open-source v0.dev alternative for building and deploying Next.js apps with AI.
 
 ## Past Projects
 - **Reninbox** (2024) — AI email client with Gmail API & GCP Pub/Sub real-time processing.  
