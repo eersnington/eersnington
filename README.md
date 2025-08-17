@@ -1,6 +1,7 @@
 # Sree N
-_Web is cool. Building games is cool._
 --
+_Web is cool. Building games is cool._
+_Always bet on Typescript and Open source._
 
 ## Current Role
 **Lead Engineer @ [Stockpenguins.com](https://stockpenguins.com)**  
