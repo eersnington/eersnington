@@ -1,6 +1,6 @@
 # Sree N
 
-_Web is cool. Building games is cool._
+_The web and games are portals to infinite possibilities. That's why I love learning and building them._
 
 _Always bet on Typescript and Open source._
 
