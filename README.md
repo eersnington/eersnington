@@ -1,8 +1,9 @@
 # Sree N
 
-_The web and games are portals to infinite possibilities. That's why I love learning and building them._
+The web and games are portals to infinite possibilities. 
+And game development is the intersection of things I like (music, art, game design, story telling and programming).
 
-_Always bet on Typescript and Open source._
+That's why I love learning and building them.
 
 ## Current Role
 **SWE @ [Stockpenguins.com](https://stockpenguins.com)**  
