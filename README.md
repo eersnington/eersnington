@@ -12,7 +12,8 @@ AI-driven stock research & investment portfolio tracking.
 ---
 
 ## Current Project
-- **[Obby.dev](https://obby.dev)** (2025) — Open-source v0.dev alternative for building and deploying Next.js apps with AI.
+- **[diff0.dev](https://diff0.dev)** (2025) — AI PR Review Agent built during Convex Modernstack Hackathon. It reviews a PR to find bugs and offer suggestion patches before they reach prod.
+- **[Obby.dev](https://obby.dev)** (2025) — A coding agent that scaffolds, runs, and previews apps inside an ephemeral Vercel Sandbox — with multi‑provider models, live logs, and tools such as Firecrawl and Context7.
 
 ## Past Projects
 - **Reninbox** (2024) — AI email client with Gmail API & GCP Pub/Sub real-time processing.  
