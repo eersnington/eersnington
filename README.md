@@ -5,7 +5,7 @@ And game development is the intersection of things I like (music, art, game desi
 
 That's why I love learning and building them.
 
-## Current: Unemployed and working on a lot of interesting things full time
+## Current: Unemployed and working on a few interesting things
 
 ## Feb 2025 - Nov 2025
 **SWE @ [Stockpenguins.com](https://stockpenguins.com)**  
