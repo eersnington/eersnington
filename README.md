@@ -1,15 +1,16 @@
 # Sree N
 
 The web and games are portals to infinite possibilities. 
-And game development is the intersection of things I like (music, art, game design, story telling and programming).
-
-That's why I love learning and building them.
+The web because I love how fast an idea can turn into something real that people actually use, and games cause they bring together music, art, design, storytelling, and code.
+That's why I love to continuously learn those tech and building them.
 
 ## Current: Unemployed and working on a few interesting things
 
 ## Feb 2025 - Nov 2025
 **SWE @ [Stockpenguins.com](https://stockpenguins.com)**  
-AI-driven stock research & investment portfolio tracking.
+- Was contracted to build an AI chatbot using the Vercel AI SDK and internal brokerage data. While doing that, I helped debug an issue with their Nginx cron setup that was causing jobs to fail under load. That led to a full-time offer, and I ended up rebuilding most of the platform lol.
+- Refactored slow Django services that processed 12K+ North American tickers daily into a Hono + Cloudflare Workers system that prioritized high traffic stocks and distributed the rest to a slower least frequently updated service to stay under rate limits.
+- Later designed a 2 layer edge cache using Workers KV and Durable Objects to serve fast reads and stream live updates via WS for stale data. Brought average load times for heatmaps and dashboard from 7s to 400ms at p99.
 
 ---
 
