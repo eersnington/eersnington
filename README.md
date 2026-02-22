@@ -1,5 +1,3 @@
-# Sree Narayanan
-
 SWE.
 
 Interested in infra side of the web, dev/agent tooling, and game development.
@@ -56,10 +54,10 @@ resource "engineer" "sree" {
 } 
 ```
 
-## Background
+### Background
 Started with game dev and modding in java, and later moved into web systems and infra.
 
-## Links
+### Links
 Site: https://eers.dev
 
 Twitter/X: https://x.com/eersnington
