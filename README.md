@@ -1,6 +1,6 @@
 SWE.
 
-Interested in infra side of the web, dev/agent tooling, and game development.
+i do sorcery related to infra side of the web, dev/agent tooling, and game development.
 
 ```hcl
 # -----------------------------------------------------------------------------
