@@ -28,6 +28,7 @@ resource "engineer" "sree" {
 
   languages = [
     "typescript",
+    "rust"
     "go",
     "zig",
     "java"
