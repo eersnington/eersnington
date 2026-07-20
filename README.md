@@ -14,8 +14,9 @@ resource "engineer" "sree" {
 
   currently = [
     "open to opportunities",
-    "workflow tooling",
-    "observability tooling"
+    "durable sagas",
+    "observability tooling",
+    "containers and microVMs"
   ]
 
   interests = [
