@@ -1,6 +1,6 @@
-SWE.
+SWE
 
-i do sorcery related to infra side of the web, dev/agent tooling, and game development.
+recovering game dev. now building rivet.gg
 
 ```hcl
 # -----------------------------------------------------------------------------
@@ -13,28 +13,28 @@ resource "engineer" "sree" {
   location = "Dubai"
 
   currently = [
-    "open to opportunities",
+    "actors",
+    "stateful infra",
     "durable sagas",
-    "observability tooling",
     "containers and microVMs"
   ]
 
   interests = [
-    "infrastructure",
+    "infra",
     "containerization",
     "sandboxing",
     "realtime systems",
-    "game development"
+    "game dev"
   ]
 
-  languages = [
-    "typescript",
-    "rust"
-    "go",
-    "zig",
-    "java"
-  ]
-  
+  experience {
+    org  = "Rivet"
+    role = "SWE"
+    year = 2026
+    current = true
+  }
+
+
   experience {
     org  = "StockPenguins"
     role = "SWE"
@@ -61,7 +61,5 @@ Started with game dev and modding in java, and later moved into web systems and 
 
 ### Links
 Site: https://eers.dev
-
 Twitter/X: https://x.com/eersnington
-
 LinkedIn: https://www.linkedin.com/in/sreenington/  
